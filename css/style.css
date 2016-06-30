@@ -1,0 +1,42 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    background-color: #b32b2e;
+}
+
+a {
+    color: whitesmoke;
+}
+
+a:active {
+    color: whitesmoke;
+}
+
+.screen.col-md-12 {
+    height: 100%;
+    background-color: #b32b2e;
+    text-align: center;
+    display: table;
+    margin: 0 auto 0 auto;
+}
+
+.screen.col-md-12 h1{
+    color: white;
+    font-size: 30px;
+}
+
+.btn.btn-primary {
+    width: 300px;
+    height: 60px;
+    background-color: #932123;
+    border-color: #932123;
+    font-size: 26px;
+    margin-top: 50px;
+}
+
+.middle.col-md-12 {
+    display: table-cell;
+    vertical-align: middle;
+}
